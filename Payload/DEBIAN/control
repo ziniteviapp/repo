@@ -1,0 +1,10 @@
+Source: ZiniTevi
+Section: Movie Apps
+Maintainer: ZiniTevi
+Version: 1.5.0
+Homepage: https://ziniteviapp.github.io/
+Package: zini.tevi.jbreak
+Name: ZiniTevi
+Architecture: iphoneos-arm
+Author: ZiniTevi
+Description: Stream movies & series for Jailbreak
