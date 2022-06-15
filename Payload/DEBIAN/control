@@ -3,7 +3,7 @@ Section: Movie Apps
 Maintainer: ZiniTevi
 Version: 1.5.0
 Homepage: https://ziniteviapp.github.io/
-Package: zini.tevi.jbreak
+Package: jb.zini.tevi
 Name: ZiniTevi
 Architecture: iphoneos-arm
 Author: ZiniTevi
